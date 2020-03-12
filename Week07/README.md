@@ -1,5 +1,6 @@
 ## Week 7
 ### Task
-![screenshot]()
+![screenshot](https://ibb.co/HXhwRCM)
 ### Solution
-![screenshot]()
+![screenshot](https://ibb.co/WkyHpKW)
+![screenshot](https://ibb.co/djvGRPt)
