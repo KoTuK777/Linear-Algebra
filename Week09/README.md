@@ -1,5 +1,5 @@
 ## Week 9
 ### Task
-![screenshot]()
+![screenshot](https://i.ibb.co/KNkmZHT/Tasks-9.png)
 ### Solution
-![screenshot]()
+![screenshot](https://i.ibb.co/1LSbsGG/Week-9.jpg)
